@@ -22,7 +22,7 @@ pod 'MyFluterTest'
 
 ## Author
 
-yangj, mocai@myweimai.com
+yangj, yangjian_fj@163.com
 
 ## License
 
