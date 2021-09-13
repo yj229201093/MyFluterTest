@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - MyFluterTest (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - MyFluterTest (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  MyFluterTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  MyFluterTest: 6bbf1a987f1eabc15f0e2df4fa0bf4c9c0e951b3
+
+PODFILE CHECKSUM: 222af5543e3938781f53ed4976a0042f78edb15d
+
+COCOAPODS: 1.10.2
